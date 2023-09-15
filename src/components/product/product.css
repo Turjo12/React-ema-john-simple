@@ -1,0 +1,83 @@
+@import url("https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap");
+.product img {
+  width: 286px;
+  height: 286px;
+  border-radius: 8px;
+}
+
+.product {
+  padding: 7px;
+  width: 300px;
+  height: 510px;
+  margin: auto;
+  /* text-align: center; */
+  border-radius: 8px;
+  border: 1px solid #95a0a7;
+  position: relative;
+}
+
+.textl {
+  text-align: left;
+  color: #0e161a;
+  font-family: "Lato", sans-serif;
+  font-size: 21px;
+  font-weight: 400;
+  letter-spacing: 0.032px;
+}
+
+.priceText {
+  color: #0e161a;
+  font-family: "Lato", sans-serif;
+  font-size: 17px;
+  font-weight: 400;
+  letter-spacing: 0.026px;
+}
+
+.texts {
+  text-align: left;
+  padding-left: 14px;
+}
+
+.menufect {
+  color: #2a414f;
+
+  /* Caption */
+  font-family: "Lato", sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+  letter-spacing: 0.048px;
+}
+
+.ratings {
+  color: #2a414f;
+
+  /* Caption */
+  font-family: "Lato", sans-serif;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  letter-spacing: 0.048px;
+}
+
+.buttoncart {
+  width: 100%;
+  border-radius: 0px 0px 8px 8px;
+  border: 1px solid #95a0a7;
+  background: #ffe0b3;
+  color: #0e161a;
+  font-family: "Lato", sans-serif;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  letter-spacing: 0.188px;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+}
+
+.buttoncart:hover {
+  background-color: orange;
+}
+

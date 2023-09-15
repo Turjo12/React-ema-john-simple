@@ -1,0 +1,74 @@
+.orderssum {
+  text-align: center;
+  color: #1c2b35;
+  /* H5 */
+  font-family: "Lato", sans-serif;
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  text-decoration: underline; 
+}
+
+.card-info {
+  padding-left: 23px;
+  margin-top: 50px;
+  margin-bottom: 57px;
+}
+
+.text {
+  color: #2a414f;
+  /* Body 1 */
+  font-family: "Lato", sans-serif;
+  font-size: 17px;
+  font-style: normal;
+  font-weight: 800;
+  line-height: normal;
+  letter-spacing: 0.085px;
+}
+
+.GrandTotal {
+  color: #0e161a;
+
+  /* H6 */
+  font-family: "Lato", sans-serif;
+  font-size: 21px;
+  font-style: normal;
+  font-weight: 900;
+  line-height: normal;
+  letter-spacing: 0.032px;
+}
+
+.btn2 {
+  width: 232px;
+  height: 48px;
+  font-family: "Lato", sans-serif;
+  font-size: 17px;
+  color: white;
+  letter-spacing: 0.085px;
+  border-radius: 4px;
+  background: #f90;
+  padding-top: 13px;
+  padding-left: 61px;
+  padding-bottom: 14px;
+  padding-right: 36px;
+  margin-top: 10px;
+}
+
+
+
+.btn1{
+    width: 232px;
+    height: 48px;
+    font-family: "Lato", sans-serif;
+    font-size: 17px;
+    border-radius: 4px;
+    background: #FF3030;
+    letter-spacing: 0.085px;
+    padding-top: 13px;
+    padding-left: 61px;
+    padding-bottom: 14px;
+    padding-right: 36px; 
+    color: white;
+
+}
